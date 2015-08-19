@@ -1,6 +1,6 @@
 ---
 ID: 58
-post_title: Home
+post_title: 'Shana Cooper Silas | I create food &#038; digital experiences.'
 author: admin
 post_date: 2015-04-15 09:49:23
 post_excerpt: ""
